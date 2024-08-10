@@ -1,4 +1,3 @@
-// app/components/UserLogin.js
 'use client'; // Ensure this is the first line
 
 import React, { useState } from "react";
@@ -94,7 +93,7 @@ const UserLogin = () => {
         Log In with Google
       </Button>
       <Typography variant="body2" color="textSecondary" sx={{ marginTop: 2 }}>
-        Don't have an account?{" "}
+        Don&apos;t have an account?{" "}
         <Link href="/Signup" passHref>
           <Button variant="text" color="primary">
             Sign Up
