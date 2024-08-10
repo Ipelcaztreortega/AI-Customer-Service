@@ -93,7 +93,7 @@ const UserLogin = () => {
         Log In with Google
       </Button>
       <Typography variant="body2" color="textSecondary" sx={{ marginTop: 2 }}>
-        Don&apos;t have an account?{" "}
+        No account?{" "}
         <Link href="/Signup" passHref>
           <Button variant="text" color="primary">
             Sign Up
